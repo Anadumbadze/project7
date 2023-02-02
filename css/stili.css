@@ -1,0 +1,160 @@
+@font-face {
+    font-family: FiraGO;
+    src: url(/foster/FiraGO-Bold.woff);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: FiraGo;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 1223px;
+    max-width: 100%;
+    margin-left: 109px;
+    margin: auto;
+}
+.hh1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+    margin-top: 35px;
+}
+.kb1{
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+.ww1 > th{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    padding: 23px 25px 23px 25px;
+
+    color: #000000;  
+}
+.ww1{
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+    text-align: left;
+}
+.ww2{
+    background: #FAFAFA;
+    border: 1px solid #EDEDED;
+
+}
+.ww2 > td{
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.btn{
+    background: #FFDD04;
+    border-radius: 10px;
+    height: 50px;
+    width: 141px;
+    border-style: none;
+}
+.name{
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    width: 359px;
+    height: 50px;
+    padding: 16px 24px 15px 14px;
+}
+.email{
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    width: 266px;
+    height: 50px;
+    padding: 16px 24px 15px 14px;
+}
+.mobile{
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    width: 217px;
+    height: 50px;
+    padding: 16px 24px 15px 14px;
+}
+.hd2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+    margin-top: 72px;
+    margin-bottom: 29px;
+}
+.box2{
+    display: flex;
+}
+.btn1{
+    border-color: transparent;
+    background: #FFDD04;
+    border-radius: 10px;
+    width: 141px;
+    height: 40px;
+    margin-left: 950px;
+    margin-top: 64px;
+}
+.ww3{
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+    text-align: left;
+    width: 1223px;
+    height: 65px;
+
+}
+.ww3 > th{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    padding: 23px 25px 23px 25px;
+
+}
+
+.ww4 > td{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    padding: 23px 39px 23px 25px;
+}
+.kb2{
+    border-collapse: collapse;
+    margin-top: 21px;
+}
+.del{
+    width: 93px;
+    height: 33px;
+    background: #FF8271;
+    border-radius: 10px;
+    padding: 7px 22px 7px 22px;
+    border-color: transparent;
+}
+.ed{
+    width: 93px;
+    height: 33px;
+    background: #FFDD04;
+    border-radius: 10px;
+    padding: 7px 32px 7px 32px;
+    border-color: transparent;
+}
